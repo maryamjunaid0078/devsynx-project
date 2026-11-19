@@ -1,0 +1,8 @@
+<html>
+<body>
+<script>
+let a = 5, b = 10;
+document.write("Addition = " + (a + b));
+</script>
+</body>
+</html>
